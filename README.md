@@ -1,4 +1,4 @@
-# Apple Standby HTML Project
+# Apple Standby mode UI for web
 
 ## Description
 
